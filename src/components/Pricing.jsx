@@ -23,18 +23,14 @@ const Pricing = () => {
       description: "A integração de pagamento recorrente (Stripe) será configurada na próxima etapa. Seus dados de assinatura estão prontos."
     });
   };
-
-  // Removed guarantees array as per task
   
   const included = [
     'Plano de treino completo e progressivo',
     'Guia nutricional estratégico',
     'Acompanhamento profissional dedicado',
     'Acesso à comunidade exclusiva',
-    'Materiais e vídeos educativos',
     'Atualizações constantes do programa',
-    'Suporte via WhatsApp', // Changed from "Suporte via chat prioritário"
-    'Garantia de satisfação de 30 dias' // Kept this as it's part of 'included' features now, not a separate guarantee section.
+    'Suporte via WhatsApp'
   ];
 
   return (
