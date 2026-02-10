@@ -24,7 +24,6 @@ const Footer = () => {
   const socialLinks = [
     { icon: <Instagram size={24} />, label: 'Instagram' },
     { icon: <Facebook size={24} />, label: 'Facebook' },
-    { icon: <Youtube size={24} />, label: 'YouTube' }
   ];
 
   return (
