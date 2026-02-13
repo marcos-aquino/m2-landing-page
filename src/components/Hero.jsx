@@ -50,7 +50,7 @@ const Hero = () => {
             className="text-xl md:text-2xl text-gray-200 mb-12 max-w-3xl mx-auto leading-relaxed"
             style={{ fontFamily: 'Outfit, sans-serif' }}
           >
-            Um processo inteligente que respeita seu corpo e constrói resultados reais
+            Um processo inteligente que respeita seu corpo e te traz resultados reais.
           </motion.p>
 
           <motion.button
