@@ -81,13 +81,13 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <Mail size={20} className="text-[#9ACD32] mt-1 flex-shrink-0" />
                 <span className="text-gray-400" style={{ fontFamily: 'Outfit, sans-serif' }}>
-                  contato@metodom2.com.br
+                  metodomm.br@gmail.com
                 </span>
               </li>
-              <li className="flex items-start gap-3">
+              {/* <li className="flex items-start gap-3">
                 <Phone size={20} className="text-[#9ACD32] mt-1 flex-shrink-0" />
                 <span className="text-gray-400" style={{ fontFamily: 'Outfit, sans-serif' }}>(32) 99999-9999</span>
-              </li>
+              </li> */}
               <li className="flex items-start gap-3">
                 <MapPin size={20} className="text-[#9ACD32] mt-1 flex-shrink-0" />
                 <span className="text-gray-400" style={{ fontFamily: 'Outfit, sans-serif' }}>Juiz de Fora, MG - Brasil</span>
