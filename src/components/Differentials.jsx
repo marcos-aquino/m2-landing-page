@@ -5,10 +5,9 @@ import { Check } from 'lucide-react';
 
 const Differentials = () => {
   const differentials = [
-    'Não é um plano genérico, é adaptado para cada realidade.',
-    'Passo a passo estruturado para mulheres',
-    'Direção, método e consistência',
-    'Resultado vem de um sistema que te guia, não de motivação'
+    'Método validado por duas profissionais com vasta experiência no corpo feminino.',
+    'Seu treino se adapta à sua rotina e respeita cada fase do seu ciclo menstrual.',
+    'Dieta que não te limita: opções deliciosas para vegetarianas, celíacas e intolerantes à lactose.'
   ];
 
   return (
