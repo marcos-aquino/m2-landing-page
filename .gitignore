@@ -1,0 +1,24 @@
+
+
+# Dependências (Não enviar!)
+node_modules
+package-lock.json # Opcional: alguns times gostam de versionar, outros não. Em projetos solo, pode manter versionado.
+yarn.lock
+pnpm-lock.yaml
+
+# Build de produção
+dist
+build
+
+# Variáveis de ambiente (Segurança)
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
