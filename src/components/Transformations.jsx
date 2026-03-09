@@ -34,14 +34,14 @@ const Transformations = () => {
     {
       id: 1,
       name: "Paciente 1",
-      result: "-8kg em 45 dias",
+      result: "Mais definição e perda de gordura em 30 dias",
       beforeImg: "/resultados/p1-antes.jpg",
       afterImg: "/resultados/p1-depois.jpg"
     },
     {
       id: 2,
       name: "Paciente 2",
-      result: "Ganho de massa e definição",
+      result: "Ganho de massa e definição em 30 dias",
       beforeImg: "/resultados/p2-antes.jpg",
       afterImg: "/resultados/p2-depois.jpg"
     },
@@ -55,14 +55,14 @@ const Transformations = () => {
     {
       id: 4,
       name: "Paciente 4",
-      result: "Definição abdominal",
+      result: "Definição abdominal em 30 dias",
       beforeImg: "/resultados/p4-antes.jpg", 
       afterImg: "/resultados/p4-depois.jpg" 
     },
     {
       id: 5,
       name: "Paciente 5",
-      result: "Perda de gordura",
+      result: "Perda de gordura em 30 dias",
       beforeImg: "/resultados/p5-antes.jpg", 
       afterImg: "/resultados/p5-depois.jpg" 
     }

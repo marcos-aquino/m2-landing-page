@@ -18,17 +18,7 @@ const ProductDetails = () => {
     {
       icon: <Users size={40} />,
       title: 'Acompanhamento Profissional',
-      description: 'Suporte contínuo de profissionais especializados para ajustar seu progresso'
-    },
-    {
-      icon: <BookOpen size={40} />,
-      title: 'Conteúdo Exclusivo',
-      description: 'Acesso a materiais educativos, vídeos explicativos e recursos premium'
-    },
-    {
-      icon: <MessageCircle size={40} />,
-      title: 'Comunidade de Apoio',
-      description: 'Faça parte de uma comunidade engajada de mulheres com os mesmos objetivos'
+      description: 'Suporte semanal de profissionais especializadas para ajustar seu progresso'
     }
   ];
 

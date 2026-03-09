@@ -28,8 +28,7 @@ const Pricing = () => {
     'Plano de treino completo e progressivo',
     'Guia nutricional estratégico',
     'Acompanhamento profissional dedicado',
-    'Acesso à comunidade exclusiva',
-    'Atualizações constantes do programa',
+    'Atualizações mensais',
     'Suporte via WhatsApp'
   ];
 
@@ -66,14 +65,14 @@ const Pricing = () => {
               ASSINATURA MENSAL
             </div>
 
-            <div className="text-center mb-8">
-              <h3 className="text-3xl font-bold text-gray-900 mb-4" style={{ fontFamily: 'Poppins, sans-serif' }}>
+            <div className="text-center mt-8 mb-8">
+              <h3 className="text-2xl font-bold text-gray-900 mb-4" style={{ fontFamily: 'Poppins, sans-serif' }}>
                 Método M2 Completo
               </h3>
               
               <div className="flex items-center justify-center gap-2 mb-2">
-                <span className="text-gray-400 line-through text-2xl">R$ 299</span>
-                <span className="text-6xl font-bold text-gray-900">R$ 199</span>
+                <span className="text-gray-400 line-through text-2xl">R$ 199</span>
+                <span className="text-6xl font-bold text-gray-900">R$ 147</span>
                 <span className="text-2xl font-medium text-gray-500 self-end mb-2">/mês</span>
               </div>
               
