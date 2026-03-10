@@ -10,6 +10,7 @@ import Testimonials from '@/components/Testimonials';
 import ProductDetails from '@/components/ProductDetails';
 import Pricing from '@/components/Pricing';
 import Footer from '@/components/Footer';
+import IndicatedFor from '@/components/IndicatedFor';
 
 const SalesPage = () => {
   return (
@@ -29,6 +30,7 @@ const SalesPage = () => {
         <Header />
         <main>
           <Hero />
+          <IndicatedFor />
           <Benefits />
           <Differentials />
           <Transformations />
