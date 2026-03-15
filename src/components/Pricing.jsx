@@ -26,7 +26,7 @@ const Pricing = () => {
   
   const included = [
     'Plano de treino completo e progressivo',
-    'Guia nutricional estratégico',
+    'Plano nutricional estratégico',
     'Acompanhamento profissional dedicado',
     'Atualizações mensais',
     'Suporte via WhatsApp'
