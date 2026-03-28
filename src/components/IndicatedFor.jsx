@@ -106,6 +106,7 @@ const IndicatedFor = () => {
             whileTap={{ scale: 0.95 }}
             className="bg-[#9ACD32] hover:bg-[#8abd2d] text-gray-900 font-extrabold py-5 px-10 md:px-14 rounded-full text-lg md:text-xl uppercase tracking-wider shadow-[0_0_20px_rgba(154,205,50,0.4)] transition-all duration-300"
             style={{ fontFamily: 'Poppins, sans-serif' }}
+            onClick={() => document.getElementById('pricing')?.scrollIntoView({ behavior: 'smooth' })}
           >
             Quero Transformar Meu Corpo!
           </motion.button>

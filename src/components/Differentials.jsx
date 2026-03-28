@@ -11,7 +11,7 @@ const Differentials = () => {
   ];
 
   return (
-    <section id="differentials" className="py-16 md:py-24 bg-gray-900">
+    <section id="differentials" className="py-16 md:py-24 bg-gray-900 relative overflow-hidden">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Image Side */}

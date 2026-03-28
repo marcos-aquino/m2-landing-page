@@ -69,7 +69,7 @@ const Transformations = () => {
   ];
 
   return (
-    <section id="resultados" className="py-20 bg-gray-900 relative overflow-hidden">
+    <section id="resultados" className="py-20 bg-gray-900">
       <div className="container mx-auto px-4">
         
         <div className="text-center max-w-3xl mx-auto mb-16">
